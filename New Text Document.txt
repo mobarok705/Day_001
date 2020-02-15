@@ -1,0 +1,12 @@
+1. open working folder then go to address bar and write the  cmd command line then write to the "python"
+2. Arithmetic operator
+     addition a+b
+     subtvation a-b
+     Multiplication a*b 
+     Division a/b
+     Remainder a%b
+     exparts base**power
+
+Github information:
+mobarok705- username
+email:mobarokhossen100@gmail.com
